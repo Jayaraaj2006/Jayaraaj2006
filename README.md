@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm a Developer
 
-<!--
-**Jayaraaj2006/Jayaraaj2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Developer** committed to building meaningful software solutions.  
+🎓 **B.Tech student** focused on strong technical fundamentals, continuous learning, and real-world application development.  
+🤝 Interested in collaboration, growth, and long-term excellence in software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50" title="Java" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" title="Python" />
+</p>
+
+
+---
+
+## 🚀 What I’m Currently Doing
+- Strengthening core programming fundamentals  
+- Building small projects to improve problem-solving skills  
+- Learning by doing and exploring software development concepts  
+
+---
+
+## 📫 Let’s Connect
+- Open to collaboration and learning opportunities  
+- Always curious about new technologies and ideas  
+
+⭐ *Thanks for visiting my GitHub profile!*
+
