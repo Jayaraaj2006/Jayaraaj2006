@@ -22,7 +22,8 @@
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50" title="Java" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" title="Python" />
-  <img src ="https://thumbnail.imgbin.com/2/7/13/imgbin-php-mysql-html-cascading-style-sheets-database-oracle-application-development-framework-0w7HUr79Bbs6xh57CuvgRi5HE_t.jpg" width ="50" title="SQL">
+  <img src ="<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/1088cf43-e52d-4815-be4e-bdfe03650916" />
+" width ="50" title="SQL">
 </p>
 
 
