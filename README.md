@@ -22,7 +22,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50" title="Java" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" title="Python" />
-  <img src ="[https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png](https://p7.hiclipart.com/preview/747/798/387/mysql-database-web-development-computer-software-dolphin.jpg)" width ="50" title="SQL">
+  <img src ="https://thumbnail.imgbin.com/2/7/13/imgbin-php-mysql-html-cascading-style-sheets-database-oracle-application-development-framework-0w7HUr79Bbs6xh57CuvgRi5HE_t.jpg" width ="50" title="SQL">
 </p>
 
 
