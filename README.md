@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Programming languages that I use
+## 🛠️ Programming languages and Technology that I use
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50" title="Java" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" title="Python" />
