@@ -6,11 +6,11 @@
   width="220"
 />
 
-👋 Hi, I'm an **Engineering student** passionate about technology and continuous learning.
+-👋 Hi, I'm an **Engineering student** passionate about technology and continuous learning.
 
-I enjoy exploring different domains in computer science, building projects, and improving my problem-solving skills. My interests include software development, data-related technologies, and understanding how systems work behind the scenes.
+-I enjoy exploring different domains in computer science, building projects, and improving my problem-solving skills. My interests include software development, data-related technologies, and understanding how systems work behind the scenes.
 
-Currently learning, experimenting, and documenting my journey as I grow in the tech world.
+-Currently learning, experimenting, and documenting my journey as I grow in the tech world.
 
 <br clear="right"/>
 
