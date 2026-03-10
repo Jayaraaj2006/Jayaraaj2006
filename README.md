@@ -22,7 +22,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50" title="Java" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" title="Python" />
-  <img src ="https://p7.hiclipart.com/preview/747/798/387/5bbf4dc6cf22a.jpg" width="50" title="mysql"/>
+  <img src ="https://pngimg.com/uploads/mysql/mysql_PNG29.png" width="50" title="mysql"/>
 </p>
 
 
