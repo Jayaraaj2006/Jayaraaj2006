@@ -6,11 +6,11 @@
   width="220"
 />
 
-💻 **Developer** committed to building meaningful software solutions.  
+👋 Hi, I'm an **Engineering student** passionate about technology and continuous learning.
 
-🎓 **B.Tech student** focused on strong technical fundamentals, continuous learning, and real-world application development.  
+I enjoy exploring different domains in computer science, building projects, and improving my problem-solving skills. My interests include software development, data-related technologies, and understanding how systems work behind the scenes.
 
-🤝 Interested in collaboration, growth, and long-term excellence in software engineering.
+Currently learning, experimenting, and documenting my journey as I grow in the tech world.
 
 <br clear="right"/>
 
@@ -28,15 +28,15 @@
 ---
 
 ## 🚀 What I’m Currently Doing
-- Strengthening core programming fundamentals  
-- Building small projects to improve problem-solving skills  
-- Learning by doing and exploring software development concepts  
+- Strengthening core programming fundamentals.  
+- Building small projects to improve problem-solving skills.  
+- Learning by doing. 
 
 ---
 
 ## 📫 Let’s Connect
-- Open to collaboration and learning opportunities  
-- Always curious about new technologies and ideas  
+- Open to collaboration and learning opportunities.  
+- Always curious about new technologies and ideas.  
 
 ⭐ *Thanks for visiting my GitHub profile!*
 
