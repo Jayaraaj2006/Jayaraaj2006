@@ -22,7 +22,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50" title="Java" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" title="Python" />
-  <img src ="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRYxOOe8ovKC6K7HZfISGRQE61zRrfx3s3Q&s](https://www.flaticon.com/free-icon/sql-server_5815478)" width ="50" title="SQL">
+  <img src ="https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png" width ="50" title="SQL">
 </p>
 
 
