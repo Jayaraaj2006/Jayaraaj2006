@@ -21,6 +21,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50" title="Java" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" title="Python" />
+  <img src="https://banner2.cleanpng.com/20190610/gou/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-1713887973448.webp" width="50" title="SQL" />
   <img src ="https://pngimg.com/uploads/mysql/mysql_PNG29.png" width="70" title="mysql"/>
 </p>
 
